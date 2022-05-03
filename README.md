@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working @NCSOFT cool :wink:
-- 🌱 &nbsp;I’m currently learning Openfeign
+- 🌱 &nbsp;I’m currently learning OpenFeign
 - 💬 &nbsp;Ask me about anything related to Go/Docker/Kubernetes
 <!-- - 📫 &nbsp;How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
