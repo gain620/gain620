@@ -6,7 +6,7 @@ May the Force be with you, always.
 <!--
 - 🔭 &nbsp;I’m currently working @NCSOFT
 -->
-- 🌱 &nbsp;I’m currently learning OpenFeign, k8s controllers / operators
+- 🌱 &nbsp;I’m currently learning Rego, k8s controllers / operators
 - 💬 &nbsp;Ask me about anything related to Go/Docker/Kubernetes
 <!-- - 📫 &nbsp;How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
